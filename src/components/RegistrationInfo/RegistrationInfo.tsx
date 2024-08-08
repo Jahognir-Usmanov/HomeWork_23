@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom"
-import {Span} from "../../components"
+import { Span } from "../Index"
 
 const RegistrationInfo = ({linkText, hasAccountText, authWithText}) => {
     return(
